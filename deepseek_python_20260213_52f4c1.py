@@ -12,13 +12,13 @@ from datetime import datetime, timedelta
 import time
 
 # --- Конфигурация ---
-BOT_TOKEN = "8447136346:AAGoxtuNONZGIn0fldfzITHSA4y0wANbJq4"
+BOT_TOKEN = "7946882326:AAHdxc7AZljVjEb5YnrYplAroyS1fbJuPV0"
 ADMIN_PASSWORD = "1847184"
 ADMIN_IDS = []
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token=BOT_TOKEN)
+bot = Bot(token=7946882326:AAHdxc7AZljVjEb5YnrYplAroyS1fbJuPV0)
 dp = Dispatcher()
 
 # --- Хранилище игр и статистики ---
